@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|c:\\users\\user-pc\\source\\repos\\pritishsartistwebsite\\pritishsartistwebsite\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|solutionrelative:pritishsartistwebsite\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|c:\\users\\user-pc\\source\\repos\\pritishsartistwebsite\\pritishsartistwebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|solutionrelative:pritishsartistwebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|c:\\users\\user-pc\\source\\repos\\pritishsartistwebsite\\pritishsartistwebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|solutionrelative:pritishsartistwebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|c:\\users\\user-pc\\source\\repos\\pritishsartistwebsite\\pritishsartistwebsite\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|solutionrelative:pritishsartistwebsite\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|c:\\users\\user-pc\\source\\repos\\pritishsartistwebsite\\pritishsartistwebsite\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|solutionrelative:pritishsartistwebsite\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|c:\\users\\user-pc\\source\\repos\\pritishsartistwebsite\\pritishsartistwebsite\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|solutionrelative:pritishsartistwebsite\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|c:\\users\\user-pc\\source\\repos\\pritishsartistwebsite\\pritishsartistwebsite\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|solutionrelative:pritishsartistwebsite\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|c:\\users\\user-pc\\source\\repos\\pritishsartistwebsite\\pritishsartistwebsite\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|solutionrelative:pritishsartistwebsite\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|c:\\users\\user-pc\\source\\repos\\pritishsartistwebsite\\pritishsartistwebsite\\views\\home\\music.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|solutionrelative:pritishsartistwebsite\\views\\home\\music.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|c:\\users\\user-pc\\source\\repos\\pritishsartistwebsite\\pritishsartistwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|solutionrelative:pritishsartistwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|c:\\users\\user-pc\\source\\repos\\pritishsartistwebsite\\pritishsartistwebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{788AFAB3-4401-415C-85F5-DD081B1A36BC}|PritishSArtistWebsite\\PritishSArtistWebsite.csproj|solutionrelative:pritishsartistwebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Music.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Views\\Home\\Music.cshtml",
+              "RelativeDocumentMoniker": "PritishSArtistWebsite\\Views\\Home\\Music.cshtml",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Views\\Home\\Music.cshtml",
+              "RelativeToolTip": "PritishSArtistWebsite\\Views\\Home\\Music.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T14:58:26.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "PritishSArtistWebsite\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "PritishSArtistWebsite\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T16:53:49.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PritishSArtistWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PritishSArtistWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T14:57:18.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PritishSArtistWebsite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PritishSArtistWebsite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T15:04:33.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PritishSArtistWebsite\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PritishSArtistWebsite\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-18T14:58:57.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PritishSArtistWebsite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PritishSArtistWebsite\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:55:54.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PritishSArtistWebsite\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PritishSArtistWebsite\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:56:25.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PritishSArtistWebsite\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PritishSArtistWebsite\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T15:15:06.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "PritishSArtistWebsite\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "PritishSArtistWebsite\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T16:40:42.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "PritishSArtistWebsite\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Models\\Song.cs",
+              "RelativeToolTip": "PritishSArtistWebsite\\Models\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:54:29.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "PritishSArtistWebsite\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\Models\\Artist.cs",
+              "RelativeToolTip": "PritishSArtistWebsite\\Models\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:55:11.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

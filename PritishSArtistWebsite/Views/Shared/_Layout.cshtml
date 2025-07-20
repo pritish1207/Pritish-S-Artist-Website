@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Pritish S</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body class="@(ViewContext.RouteData.Values["action"].ToString() == "Index" || ViewContext.RouteData.Values["action"].ToString() == "Contact" ? "no-scroll" : "")">
+    <!-- Flowy abstract background -->
+    <div class="bg-abstract"></div>
+
+    <header>
+        <nav class="main-navbar">
+            <div class="navbar-brand">
+                <span class="brand-text">PRITISH <span class="gradient-s">S</span></span>
+            </div>
+            <ul class="navbar-links">
+                <li><a asp-area="" asp-controller="Home" asp-action="Index" class="nav-btn">Home</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Music" class="nav-btn">Music</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="About" class="nav-btn">About</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Contact" class="nav-btn">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Flex wrapper for sticky footer -->
+    <div class="site-wrapper">
+        <main role="main" class="main-content">
+            @RenderBody()
+        </main>
+        <footer class="footer">
+            <div class="container text-center">
+                <span class="text-muted">&copy; 2025 Pritish S. All rights reserved.</span>
+            </div>
+        </footer>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+    <!-- Cursor-reactive background motion -->
+    <script>
+        document.addEventListener('mousemove', function(e) {
+            const x = (e.clientX / window.innerWidth - 0.5) * 24;
+            const y = (e.clientY / window.innerHeight - 0.5) * 24;
+            document.querySelector('.bg-abstract').style.transform =
+                `scale(1.07) translate(${x}px, ${y}px)`;
+        });
+        document.addEventListener('mouseleave', function() {
+            document.querySelector('.bg-abstract').style.transform = 'scale(1.07) translate(0,0)';
+        });
+    </script>
+</body>
+</html>

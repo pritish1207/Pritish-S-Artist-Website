@@ -1,0 +1,26 @@
+﻿@model List<Song>
+@{
+    ViewData["Title"] = "Music";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="music-section">
+    <h1 class="music-title">All Tracks by Pritish S</h1>
+    <div class="music-grid">
+        @foreach (var song in Model)
+        {
+            <div class="song-card">
+                <img src="@song.CoverUrl" alt="@song.Title Album Art" class="song-cover" />
+                <div class="song-info">
+                    <h2 class="song-title">@song.Title</h2>
+                    <div class="song-meta">@song.Album &bull; @song.Year &bull; @song.Genre</div>
+                    <div class="song-links">
+                        <a href="@song.SpotifyUrl" target="_blank" class="music-btn spotify" title="Listen on Spotify"><i class="fab fa-spotify"></i></a>
+                        <a href="@song.AppleMusicUrl" target="_blank" class="music-btn apple" title="Listen on Apple Music"><i class="fab fa-apple"></i></a>
+                        <a href="@song.YouTubeUrl" target="_blank" class="music-btn youtube" title="Watch on YouTube"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

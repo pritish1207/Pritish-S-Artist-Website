@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PritishSArtistWebsite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PritishSArtistWebsite.f7zujbm2nd.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\AGE.jpg",
+      "PackagePath": "staticwebassets\\images\\AGE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\ALLTHETIME.jpg",
+      "PackagePath": "staticwebassets\\images\\ALLTHETIME.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\AMAPRITS.jpg",
+      "PackagePath": "staticwebassets\\images\\AMAPRITS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\ARTISTPIC1.jpg",
+      "PackagePath": "staticwebassets\\images\\ARTISTPIC1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\ARTISTPIC2.jpg",
+      "PackagePath": "staticwebassets\\images\\ARTISTPIC2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\BASSRIDE.jpg",
+      "PackagePath": "staticwebassets\\images\\BASSRIDE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\BLUEBERRY.jpg",
+      "PackagePath": "staticwebassets\\images\\BLUEBERRY.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\CATCHME.jpg",
+      "PackagePath": "staticwebassets\\images\\CATCHME.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\COFFEE.jpg",
+      "PackagePath": "staticwebassets\\images\\COFFEE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\DRUGS.jpg",
+      "PackagePath": "staticwebassets\\images\\DRUGS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\EE1.jpg",
+      "PackagePath": "staticwebassets\\images\\EE1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\EE2.jpg",
+      "PackagePath": "staticwebassets\\images\\EE2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\GOODVIBES.jpg",
+      "PackagePath": "staticwebassets\\images\\GOODVIBES.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\HASTA.jpg",
+      "PackagePath": "staticwebassets\\images\\HASTA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\HEARBEAT.jpg",
+      "PackagePath": "staticwebassets\\images\\HEARBEAT.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\LOVEME.jpg",
+      "PackagePath": "staticwebassets\\images\\LOVEME.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\LOVINGYOU.jpg",
+      "PackagePath": "staticwebassets\\images\\LOVINGYOU.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\MEMORIES.jpg",
+      "PackagePath": "staticwebassets\\images\\MEMORIES.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\ODY.jpg",
+      "PackagePath": "staticwebassets\\images\\ODY.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\ONONE.jpg",
+      "PackagePath": "staticwebassets\\images\\ONONE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\PERFECT.jpg",
+      "PackagePath": "staticwebassets\\images\\PERFECT.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\RAGE.jpg",
+      "PackagePath": "staticwebassets\\images\\RAGE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\SHIVA.jpg",
+      "PackagePath": "staticwebassets\\images\\SHIVA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\STATIC.jpg",
+      "PackagePath": "staticwebassets\\images\\STATIC.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\STRINGS.jpg",
+      "PackagePath": "staticwebassets\\images\\STRINGS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\TELLME.jpg",
+      "PackagePath": "staticwebassets\\images\\TELLME.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\TELLMEHIGH.jpg",
+      "PackagePath": "staticwebassets\\images\\TELLMEHIGH.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\UTHOUGHT.jpg",
+      "PackagePath": "staticwebassets\\images\\UTHOUGHT.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\VIBRA.jpg",
+      "PackagePath": "staticwebassets\\images\\VIBRA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\electric3.jpg",
+      "PackagePath": "staticwebassets\\images\\electric3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\pawel-czerwinski-ruJm3dBXCqw-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\pawel-czerwinski-ruJm3dBXCqw-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\images\\pritishs-hero.jpg",
+      "PackagePath": "staticwebassets\\images\\pritishs-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER-PC\\source\\repos\\PritishSArtistWebsite\\PritishSArtistWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PritishSArtistWebsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PritishSArtistWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PritishSArtistWebsite.props",
+      "PackagePath": "build\\PritishSArtistWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PritishSArtistWebsite.props",
+      "PackagePath": "buildMultiTargeting\\PritishSArtistWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PritishSArtistWebsite.props",
+      "PackagePath": "buildTransitive\\PritishSArtistWebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
